@@ -6,8 +6,8 @@ cd
 ls -l directory_name 
 
 # Create and navigate tthrough directory 
-mkdir -p pranjal/jain
-cd pranjal/jain
+mkdir -p rounak/kumar
+cd rounak/kumar
 
 # Create a file and list its contents 
 echo "this is good" > fun.txt
