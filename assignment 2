@@ -9,10 +9,10 @@ cd robot
 mkdir tech
 
 # to create a file 
-touch ronit
+touch rounak
 
 # To remove a file 
-rm ronit
+rm rounak
 
 # To remove a directory 
 rmdir tech
