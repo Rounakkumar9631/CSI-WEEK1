@@ -1,15 +1,15 @@
 #!/bin/bash
 # Create a user 
-useradd rohan
+useradd rounak
 
 # Set password to user 
-passwd rohan
+passwd rounak
 
 # Create a group
 groupadd admin
 
 # To add user to group
-usermod -aG admin rohan
+usermod -aG admin rounak
 
 # Modify user propertise 
 usermod -c "Updated Test User" testuser
